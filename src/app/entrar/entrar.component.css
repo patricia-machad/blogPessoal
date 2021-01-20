@@ -8,6 +8,7 @@
     background-size: cover;
 }
 .col-md-6 {
-    flex: 0 0 50%;
-    max-width: 100%;
+    flex: 200 20 50%;
+    max-width: 65%;
 }
+
